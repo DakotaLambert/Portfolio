@@ -1,0 +1,12 @@
+.workHeader {
+  /* text-align: center; */
+  font-size: 20px;
+}
+
+.workSep {
+  border-bottom: 2px solid;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+}
+
+/* ? add additional links for rarer, add fahe projects, change emails */
